@@ -1,4 +1,4 @@
-Deployed link:
+Deployed link: https://bcs08-doragong-react-glasses-room.vercel.app
 
 # React + TypeScript + Vite
 
