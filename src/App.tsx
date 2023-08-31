@@ -1,5 +1,11 @@
+import GlassesPage from "./pages/GlassesPage";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <GlassesPage />
+    </>
+  );
 }
 
 export default App;
